@@ -17,7 +17,7 @@ The report is divided into two analytical views:
 
 Provides an executive overview of operational performance through KPI cards, interactive slicers, trend analysis, site-level SLA monitoring, and process-level performance comparisons.
 
-![Performance Overview](performance-overview.png)
+![Performance Overview](operations-dashboard.png)
 
 ### Page 2 — Operational Insights & Risk Analysis
 
