@@ -6,7 +6,7 @@ The project demonstrates an end-to-end analytics workflow involving data prepara
 
 ## Dashboard Preview
 
-![Operations Performance & SLA Monitoring Dashboard](operations-dashboard.jpg)
+![Operations Performance & SLA Monitoring Dashboard](operations-dashboard.png)
 
 ## Project Objective
 
